@@ -1,0 +1,47 @@
+[INFO] 18:22:46: ====== WebDriver manager ======
+[INFO] 18:22:47: Get LATEST chromedriver version for google-chrome
+[INFO] 18:22:48: Get LATEST chromedriver version for google-chrome
+[INFO] 18:22:48: Driver [C:\Users\Elena\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 18:22:50: Test step 1 "Check unsuccessful login" starting
+[INFO] 18:22:52: Input invalid data
+[INFO] 18:22:52: Clear login text field
+[INFO] 18:22:52: Try to input test to element //*[@id="login"]/div[1]/label/input
+[INFO] 18:22:52: Clear password text field
+[INFO] 18:22:53: Try to input test to element //*[@id="login"]/div[2]/label/input
+[INFO] 18:22:53: Click at login button
+[INFO] 18:22:53: Check that error text is equals with predefined value
+[INFO] 18:22:54: We found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+[INFO] 18:22:54: Field //*[@id="app"]/main/div/div/div[2]/h2 contains text 401
+[INFO] 18:23:00: ====== WebDriver manager ======
+[INFO] 18:23:01: Get LATEST chromedriver version for google-chrome
+[INFO] 18:23:02: Get LATEST chromedriver version for google-chrome
+[INFO] 18:23:02: Driver [C:\Users\Elena\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 18:23:04: Test step 2 "Check successful login" starting
+[INFO] 18:23:06: Input valid data
+[INFO] 18:23:06: Clear login text field
+[INFO] 18:23:07: Try to input Fred123 to element //*[@id="login"]/div[1]/label/input
+[INFO] 18:23:07: Clear password text field
+[INFO] 18:23:07: Try to input 17fe38c02d to element //*[@id="login"]/div[2]/label/input
+[INFO] 18:23:07: Click at login button
+[INFO] 18:23:09: Check that hello text is equals with predefined value
+[INFO] 18:23:16: ====== WebDriver manager ======
+[INFO] 18:23:17: Get LATEST chromedriver version for google-chrome
+[INFO] 18:23:18: Get LATEST chromedriver version for google-chrome
+[INFO] 18:23:18: Driver [C:\Users\Elena\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 18:23:20: Test step 3 "Post creation by user" starting
+[INFO] 18:23:22: Clear login text field
+[INFO] 18:23:23: Try to input Fred123 to element //*[@id="login"]/div[1]/label/input
+[INFO] 18:23:23: Clear password text field
+[INFO] 18:23:23: Try to input 17fe38c02d to element //*[@id="login"]/div[2]/label/input
+[INFO] 18:23:23: Click at login button
+[INFO] 18:23:28: Check the post title is equals with expected value
+[INFO] 18:23:34: ====== WebDriver manager ======
+[INFO] 18:23:35: Get LATEST chromedriver version for google-chrome
+[INFO] 18:23:36: Get LATEST chromedriver version for google-chrome
+[INFO] 18:23:36: Driver [C:\Users\Elena\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 18:23:39: Test step 4 "Check unsuccessful login" starting
+[INFO] 18:23:40: Clear login text field
+[INFO] 18:23:40: Try to input Fred123 to element //*[@id="login"]/div[1]/label/input
+[INFO] 18:23:41: Clear password text field
+[INFO] 18:23:41: Try to input 17fe38c02d to element //*[@id="login"]/div[2]/label/input
+[INFO] 18:23:41: Click at login button

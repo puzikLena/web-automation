@@ -1,0 +1,28 @@
+# Common
+username: Fred123
+password: 17fe38c02d
+
+post_title: Hello, World!
+post_description: This is my new post for test stand
+post_content: Your advertisement could be here
+
+browser: chrome
+sleep_time: 1
+implicitly_wait_timeout_sec: 5
+test_host: http://test-stand.gb.ru
+
+# HW1
+login_host: https://test-stand.gb.ru/gateway/login
+posts_api_host: https://test-stand.gb.ru/api/posts
+posts_gateway_host: https://test-stand.gb.ru/gateway/posts
+
+# HW3
+contact_name: Contact name
+contact_email: contact@mail.com
+contact_content: This is contact content
+
+# HW4
+from_email: set_your_email
+to_email: set_to_email
+# Выкладывать в общий доступ на Github пароль - не безопасно
+email_password: set_your_email_password

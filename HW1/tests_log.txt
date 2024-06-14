@@ -1,0 +1,9 @@
+[INFO] 19:57:00: Test Step 1 "Check title in posts" starting
+[INFO] 19:57:01: Check the response is successful
+[INFO] 19:57:01: Check is defined title contains in response
+[INFO] 19:57:02: Test Step 2 "Check post description" starting
+[INFO] 19:57:02: Trying to execute add post request
+[INFO] 19:57:02: Check is the add post request is successful
+[INFO] 19:57:02: Trying to execute get posts request
+[INFO] 19:57:03: Check is the get posts request is successful
+[INFO] 19:57:03: Check is the predefined post description contains in the posts

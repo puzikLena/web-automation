@@ -1,0 +1,28 @@
+[INFO] 18:35:59: ====== WebDriver manager ======
+[INFO] 18:36:00: Get LATEST chromedriver version for google-chrome
+[INFO] 18:36:01: Get LATEST chromedriver version for google-chrome
+[INFO] 18:36:01: Driver [C:\Users\Elena\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 18:36:06: Test Step 1 "Test Failed login" starting
+[INFO] 18:36:06: Find login and password fields
+[INFO] 18:36:06: Input invalid auth data
+[INFO] 18:36:06: Find and click at login button
+[INFO] 18:36:06: Check error text is equals with predefined
+[INFO] 18:36:09: ====== WebDriver manager ======
+[INFO] 18:36:10: Get LATEST chromedriver version for google-chrome
+[INFO] 18:36:10: Get LATEST chromedriver version for google-chrome
+[INFO] 18:36:11: Driver [C:\Users\Elena\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 18:36:16: Test Step 2 "Test success login" starting
+[INFO] 18:36:16: Find login and password fields
+[INFO] 18:36:16: Input correct auth data
+[INFO] 18:36:16: Find and click at login button
+[INFO] 18:36:17: Find and check is username equals with username
+[INFO] 18:36:22: ====== WebDriver manager ======
+[INFO] 18:36:23: Get LATEST chromedriver version for google-chrome
+[INFO] 18:36:23: Get LATEST chromedriver version for google-chrome
+[INFO] 18:36:23: Driver [C:\Users\Elena\.wdm\drivers\chromedriver\win64\125.0.6422.141\chromedriver-win32/chromedriver.exe] found in cache
+[INFO] 18:36:29: Find login and password fields
+[INFO] 18:36:29: Input correct auth data
+[INFO] 18:36:29: Find and click at login button
+[INFO] 18:36:32: Find create post field and fill them
+[INFO] 18:36:33: Click on create post button
+[INFO] 18:36:35: Find and check post title is equals with predefined
